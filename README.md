@@ -25,3 +25,10 @@ In many cities, waste collection is irregular and not trackable . TrashTrack sol
 - Backend: Node.js (Express)  
 - Database: MongoDB  
 - Hosting: AWS / Render  
+
+
+## Wireframes
+
+Below are early wireframes showing the TrashTrack user flow.
+
+![User Flow Wireframe](wireframes/image.png)
