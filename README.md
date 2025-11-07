@@ -29,6 +29,6 @@ In many cities, waste collection is irregular and not trackable . TrashTrack sol
 
 ## Wireframes
 
-Below are early wireframes showing the TrashTrack user flow.
+Below are early wireframes showing the TrashTrack User flow.
 
 ![User Flow Wireframe](wireframes/image.png)
